@@ -2,6 +2,9 @@
 # SOPGeneration Tool 
 
 ## About
+This web-based tool empowers users to submit information via a user-friendly UI, similar to Google Forms. The data is securely stored and sent to the backend for processing. Additionally, an email containing the user's input is generated and sent to their provided email address.
+
+*Going Above and Beyond*: For an extra touch, our tool utilizes the OpenAI GPT model to create personalized statements of purpose based on user input, delivering a truly unique experience.
 
 ## Technologies Used
 *__Client__*<br>
