@@ -1,0 +1,11 @@
+/* Add custom fonts */
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat Regular"),
+        url("./Fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+    background-color: #ecf5ff;
+}

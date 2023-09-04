@@ -1,0 +1,26 @@
+/* Navbar styles */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    height: 60px;
+    box-shadow: 0 0px 30px rgba(127, 137, 161, 0.3);
+    display: flex;
+}
+
+/* Container styles */
+.container-fluid {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 0 100px;
+}
+
+/* Logo styles */
+.logo {
+    background-color: #fff;
+    max-height: 25px;
+    margin: 7px 0;
+}
